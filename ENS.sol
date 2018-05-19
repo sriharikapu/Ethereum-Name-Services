@@ -206,6 +206,7 @@ contract Registrar {
     }
 
     /**
+     *
      * @dev Returns the maximum of two unsigned integers
      * @param a A number to compare
      * @param b A number to compare
